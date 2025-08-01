@@ -1,0 +1,4 @@
+﻿Esta capa es donde vamos a crear las vista, a esta es que tenemos que agregarle las referencias
+hacia otras capas,es com oque utilizamos las clases de las demas capas
+sin que estas se referencien a la capa vista
+*Se puede tener diferentes capas de vistas y utilizar las demas capas

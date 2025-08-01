@@ -1,0 +1,5 @@
+﻿En esta capa vamos a codificar tada la logica referida al negocio
+va hacer referencia a dominio
+en las clases deben asignarce las capas a utilizar, en este emplo
+hice using dominio
+las clases deben ser publica

@@ -1,0 +1,3 @@
+﻿En esta capa van a ir los dominios, estos serian las entidades
+los objetos que vamos a utilizar en nuestro negocion
+en este ejemplo son los pokemons, elementos y entrenador
